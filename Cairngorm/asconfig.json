@@ -1,0 +1,26 @@
+{
+    "config": "flex",
+    "compilerOptions": {
+        "debug": true,
+        "targets": ["JSRoyale"],
+        "source-map": true,
+        //"html-template": "./src/main/resources/jewel-index-template.html",
+        //"theme": "${royalelib}/themes/JewelTheme/src/main/resources/defaults.css",
+        "theme": "src/main/resources/App.css",
+        "output": "target",
+        "js-library-path": [
+        
+            "libs/cairngorm-js.swc"
+        ],
+        "source-path": [
+            "src/main/royale"
+        ]
+    },
+    "copySourcePathAssets": true,
+    // "additionalOptions": "-js-dynamic-access-unknown-members=true",
+    "additionalOptions": "-keep-as3-metadata+=DefaultProperty,Inject,Dispatcher,EventHandler,PostConstruct,PreDestroy,ViewAdded,ViewRemoved,Bindable,Transient -keep-code-with-metadata=Inject -js-dynamic-access-unknown-members",
+    "files":
+    [
+        "src/main/royale/App.mxml"
+    ]
+}

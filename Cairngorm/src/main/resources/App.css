@@ -1,0 +1,28 @@
+@namespace "http://www.w3.org/1999/xhtml";
+@namespace "library://ns.apache.org/royale/jewel";
+
+.Alert2
+{
+   background-color: #4A535E;
+   box-shadow: 5px 10px 18px #888888;
+}
+
+.TitleBar2 {
+    letter-spacing: 0;
+    color: white;
+    background-color: #4A535E;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.TitleBarTitle2{
+    font-size: 30px;
+}
+
+.AlertContent2 .Label2{
+    letter-spacing: 0;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+

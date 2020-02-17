@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CairngormEvent.js",
+"lineCount":65,
+"sourceRoot":"file:///D:/dev/cairngorm/fresh/royale/royalelibs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAkEsB,0CAAhB,WAA8B,CAAE,IAAa,EAAE,OAAyB,EAAE,UAA6B,C,CACvG,C;;;uEACU,I,EAAM,O,EAAS,U,CAAY,C;AACrC,C;;;;;;;;;;;;;;AAVY,qG,YAAS,C;;;;;;;;AAeL,6DAAhB,WAAwB,CAAC,C,CACzB,C;EACG,OAAO,oDAAwB,CAAC,WAAW,CAAC,CAAC,CAAC,aAAa,CAAE,IAAK,CAAC,C;AACtE,C;;;yEAKwB,CAAC,C,CACzB,C;EACC,OAAO,KAAA,gDAAK,C;AACb,C;;;yEAKwB,CAAE,KAAU,C,CACpC,C;EACC,KAAA,gDAAK,GAAG,KAAK,C;AACd;",
+"sources":["cairngorm/src/main/royale/com/adobe/cairngorm/control/CairngormEvent.as"],
+"names":[]
+}

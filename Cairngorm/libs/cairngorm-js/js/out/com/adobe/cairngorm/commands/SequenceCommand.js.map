@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SequenceCommand.js",
+"lineCount":70,
+"sourceRoot":"file:///D:/dev/cairngorm/fresh/royale/royalelibs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AAqGsB,4CAAhB,WAA+B,CAAE,SAAkC,C,CACnE,C;;EACU,C;EACP,IAAI,CAAC,SAAS,GAAG,SAAS,C;AAC7B,C;;;;;;;;;;;;;AATW,gE,OAA0B,C;;;;;;;;;;;;AAkBrB,8DAAhB,WAAuB,CAAE,KAAuB,C,CAChD,C;AAIA,C;;;;;;;;;;;;AAUgB,yEAAhB,WAAkC,CAAC,C,CACnC,C;EACG,IAAuB,uBAAnB,iBAA2B,G,CAAK,KAAA,SAAS,IAAI,I,CAAI,C;EACrD,IAAI,iBAAiB,C;IAClB,oDAAwB,CAAC,WAAW,CAAC,CAAC,CAAC,aAAa,CAAE,KAAA,SAAU,CAAC,C;AACvE;",
+"sources":["cairngorm/src/main/royale/com/adobe/cairngorm/commands/SequenceCommand.as"],
+"names":[]
+}

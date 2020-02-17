@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"EventoCRUD.js",
+"lineCount":40,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AAQkB,mCAAhB,WAA0B,CAAC,SAAgB,EAAE,SAAgB,C,CAAO,C;gEAC7D,S,CAAU,C;EAChB,IAAI,CAAC,SAAS,GAAG,SAAS,C;AAC3B,C;;;;;;;;;;;;;;AALW,uDAAA;",
+"sources":["../../../../../src/main/royale/entidadesbasicas/eventos/EventoCRUD.as"],
+"names":[]
+}

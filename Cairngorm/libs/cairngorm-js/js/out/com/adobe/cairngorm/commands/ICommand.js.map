@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ICommand.js",
+"lineCount":59,
+"sourceRoot":"file:///D:/dev/cairngorm/fresh/royale/royalelibs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;kEA6FsB,CAAE,KAAuB;",
+"sources":["cairngorm/src/main/royale/com/adobe/cairngorm/commands/ICommand.as"],
+"names":[]
+}

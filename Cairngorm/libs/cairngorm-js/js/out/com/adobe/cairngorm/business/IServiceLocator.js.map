@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IServiceLocator.js",
+"lineCount":81,
+"sourceRoot":"file:///D:/dev/cairngorm/fresh/royale/royalelibs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;gFAmD6B,CAAE,SAAmB,C;;;;;;;;;;iFAOpB,CAAE,SAAmB,C;;;;;;;;;;+EAOvB,CAAE,aAAuB,C;;;;;;;;;;;;gFASxB,CAAE,QAAiB,EAAI,QAAkB,C;;;;;;;;;;sFAOnC,CAAE,QAAiB,EAAE,QAAkB,C;;wEAKrD,CAAC;",
+"sources":["cairngorm/src/main/royale/com/adobe/cairngorm/business/IServiceLocator.as"],
+"names":[]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"MonedaBase.js",
+"lineCount":94,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAcwB,2G,OAAc,C;;;;;;;AACd,gH,OAAmB,C;;;;gGAWL,CAAC,KAAY,C,CAAM,C;AACzC,IAAI,CAAC,oDAAO,GAAG,KAAK,C;AACxB,C;;;;;qGAE+B,CAAC,KAAY,C,CAAM,C;AAC9C,IAAI,CAAC,yDAAY,GAAG,KAAK,C;AAC7B,C;;;;6EAd0B,CAAC,C,CAAQ,C;AAC/B,OAAO,IAAI,CAAC,oDAAO,C;AACvB,C;;;uFAM0B,CAAC,KAAY,C;;;;;;;;;;;;;;;;;;;;;kFAJR,CAAC,C,CAAQ,C;AACpC,OAAO,IAAI,CAAC,yDAAY,C;AAC5B,C;;;4FAM+B,CAAC,KAAA;",
+"sources":["../../../../../../src/main/royale/entidadesbasicas/modelo/entidades/MonedaBase.as"],
+"names":[]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Controlador.js",
+"lineCount":39,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;AAsBkB,wCAAhB,WAA2B,CAAC,C,CAAC,C;;EAC5B,KAAA,UAAU,CAAC,wCAAW,CAAC,kBAAkB,EAAK,4CAAkB,CAAC,C;AAElE,C;;;;;;;;;;;;;;;AANoB,2DAA6B,GAAG,oBAAA;",
+"sources":["../../../../../src/main/royale/entidadesbasicas/controlador/Controlador.as"],
+"names":[]
+}

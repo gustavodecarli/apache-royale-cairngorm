@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CairngormEventDispatcher.js",
+"lineCount":103,
+"sourceRoot":"file:///D:/dev/cairngorm/fresh/royale/royalelibs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;AAsFsB,oDAAhB,WAAwC,CAAE,MAA+B,C,CACzE,C;;EACG,KAAA,oEAAe,GAAG,IAAI,wCAAe,CAAE,MAAO,CAAC,C;AAClD,C;;;;;;;;;;;;;AApBmB,6D,OAAmC,C;;;;;;;AAC1C,mI,OAAkC,C;;;;;;;;AAKvB,gEAAvB,WAAkC,CAAC,C,CACnC,C;EACG,IAAK,qDAAA,QAAQ,IAAI,IAAI,C;IAClB,qDAAA,QAAQ,GAAG,IAAI,oDAAwB,CAAC,CAAC,C;EAE1C,OAAA,qDAAO,QAAQ,C;AACpB,C;;;;;;;;;;AAagB,+EAAhB,WAAgC,CAAE,IAAW,EAAE,QAAiB,EAAE,UAA0B,C,CAC5F,C;;EACG,KAAA,oEAAe,CAAC,gBAAgB,CAAE,IAAI,EAAE,QAAQ,EAAE,UAAU,CAAC,C;AAChE,C;;;;;;;;;;AAOgB,kFAAhB,WAAmC,CAAE,IAAW,EAAE,QAAiB,EAAE,UAA2B,C,CAChG,C;;EACG,KAAA,oEAAe,CAAC,mBAAmB,CAAE,IAAI,EAAE,QAAQ,EAAE,UAAW,CAAC,C;AACpE,C;;;;;;;;;AAKgB,4EAAhB,WAA6B,CAAE,KAAqB,C,CACpD,C;EACG,OAAO,KAAA,oEAAe,CAAC,aAAa,CAAE,KAAM,CAAC,C;AAChD,C;;;;;;;;;AAKgB,+EAAhB,WAAgC,CAAE,IAAY,C,CAC9C,C;EACG,OAAO,KAAA,oEAAe,CAAC,gBAAgB,CAAE,IAAK,CAAC,CAAA;",
+"sources":["cairngorm/src/main/royale/com/adobe/cairngorm/control/CairngormEventDispatcher.as"],
+"names":[]
+}

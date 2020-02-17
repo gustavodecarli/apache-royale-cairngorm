@@ -1,0 +1,14 @@
+{
+    "as3mxml.sdk.framework": "/Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+    "java.configuration.updateBuildConfiguration": "enabled",
+    "saveAndRunExt": {
+        "commands": [
+            {
+                "match": "\\.(mxml$|js$|html$|as$|json$|css$)",
+                "isShellCommand": false,
+                "cmd": "workbench.action.debug.restart"
+            }
+        ]
+    } 
+
+}

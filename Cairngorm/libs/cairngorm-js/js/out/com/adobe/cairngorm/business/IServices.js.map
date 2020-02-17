@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IServices.js",
+"lineCount":67,
+"sourceRoot":"file:///D:/dev/cairngorm/fresh/royale/royalelibs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;oEAuCuB,CAAE,cAAiC,C;;;;;;;;;;sEAOjC,CAAE,IAAc,C;;;;;;;;;;0EAOZ,CAAE,QAAiB,EAAE,QAAkB,C;;;;;;;;;;gFAOjC,CAC1B,QAAiB,EAAE,QADuD,C;;mEAM7D,CAAC,C;;kEAKF,CAAC;",
+"sources":["cairngorm/src/main/royale/com/adobe/cairngorm/business/IServices.as"],
+"names":[]
+}

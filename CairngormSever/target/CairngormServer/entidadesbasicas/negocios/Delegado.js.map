@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Delegado.js",
+"lineCount":51,
+"mappings":"A;;;;;;;;;;;;;;;;;;;AAwBkB,kCAAhB,WAAwB,CAAE,SAAwB,C,CAClD,C;EACC,IAAI,CAAC,4CAAS,GAAG,SAAS,C;EAC1B,IAAI,CAAC,0CAAO,GAAG,2CAAc,CAAC,WAAW,CAAC,CAAC,CAAC,UAAU,CAAC,SAAS,CAAC,cAAc,CAAC,CAAC,CAAC,C;AACnF,C;;;;;;;;;;;;;AARY,yF,OAAwB,C;;;;;;;AACxB,uF,OAAuB,C;;;;;;AAUnB,wDAAhB,WAA2B,CAAC,C,CAAO,C;EAElC,IAAU,iCAAN,IAAiB,G,wDAAG,KAAA,0C,eAAQ,W,4BAAa,C;EAE7C,IAAI,CAAC,YAAY,CAAC,IAAI,CAAC,4CAAS,CAAC,CAAA;",
+"sources":["../../../../../src/main/royale/entidadesbasicas/negocios/Delegado.as"],
+"names":[]
+}

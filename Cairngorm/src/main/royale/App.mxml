@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:fx="http://ns.adobe.com/mxml/2009"
+                   xmlns:js="library://ns.apache.org/royale/basic"
+                   xmlns:mx="library://ns.apache.org/royale/mx" 
+                   xmlns:servicios="entidadesbasicas.servicios.*" 
+                   xmlns:controlador="entidadesbasicas.controlador.*"
+                   width="600" 
+	           height="400"
+                   initialize="init()">
+
+
+<fx:Declarations>
+	<controlador:Controlador id="controlador_main"/>
+</fx:Declarations>
+
+<servicios:Servicio id="sericio_main"/>
+
+<fx:Script>
+    <![CDATA[
+            import com.adobe.cairngorm.control.CairngormEventDispatcher;
+
+            import entidadesbasicas.eventos.EventoSeleccionar;
+            import entidadesbasicas.modelo.ModeloCRUD;
+            import entidadesbasicas.modelo.ModeloLocal;
+            import mx.controls.Alert;
+            import org.apache.royale.events.Event;
+
+            [Bindable]
+             public var modelo:ModeloCRUD = null; // ModeloLocal.getModelInstance(ModeloLocal.MONEDA_ABM);
+             
+
+             private function init():void{
+                 this.modelo = ModeloLocal.getModelInstance(ModeloLocal.MONEDA_ABM);
+             }         
+
+             private function onClick(e:Event):void{
+                   var unEvento:EventoSeleccionar = new EventoSeleccionar(ModeloLocal.MONEDA_ABM, null);
+                   CairngormEventDispatcher.getInstance().dispatchEvent(unEvento);
+
+                   this.modelo.addEventListener(ModeloCRUD.RESULT_SELECCIONAR, onResult);
+             }
+
+             private function onResult(e:Event):void{
+                Alert.show(this.modelo.dataProvider.length  + " rows ", "Result Finish")   ;  
+
+                //This is requerid ?
+                this.grdData.dataProvider = this.modelo.dataProvider;
+
+                console.log(this.modelo.dataProvider);
+             }
+    ]]>
+</fx:Script>
+
+
+<mx:Button label="Remote Object" width="200" height="20" x="10" y="10" click="onClick(event)" backgroundColor="#409494"/>
+
+<mx:DataGrid id="grdData">
+        <mx:columns>
+                <mx:DataGridColumn dataField="codigo"/>
+                <mx:DataGridColumn dataField="descripcion"/>
+        </mx:columns>
+</mx:DataGrid>
+
+
+</mx:Application>

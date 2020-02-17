@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CairngormError.js",
+"lineCount":47,
+"sourceRoot":"file:///D:/dev/cairngorm/fresh/royale/royalelibs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AA2CwB,kCAAhB,WAA8B,CAAC,SAAgB,EAAM,IAAI,C,CACzD,C;;+DACU,KAAA,gDAAa,CAAC,SAAS,EAAE,IAAI,CAAC,QAAQ,CAAC,CAAC,C,CAAE,C;AACpD,C;;;;;;;;;;;;;;;;AAEiB,6FAAjB,WAA8B,CAAC,SAAgB,EAAM,IAAI,C,CACzD,C;;EAGI,IAAoB,sBAAhB,gBAAuB,GAAG,yCAAqB,CAAC,cAAc,CAAC,SAAS,CAAC,C;EAE7E,IAAW,sBAAP,OAAc,GAAG,kCAAU,CAAC,UAAU,CAAC,gBAAgB,EAAE,IAAI,CAAC,C;EAElE,OAAO,kCAAU,CAAC,UAAU,CAAC,UAAU,EAAE,SAAS,EAAE,OAAO,CAAC,C;AAChE;",
+"sources":["cairngorm/src/main/royale/com/adobe/cairngorm/CairngormError.as"],
+"names":[]
+}
